@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "m3t2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/m3t2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/m3t2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "m3t2/1.0.0": {
+      "type": "project",
+      "path": "../m3t2/m3t2.csproj",
+      "msbuildProject": "../m3t2/m3t2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "m3t2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D1\\m3\\m3t2\\m3t2Execute\\m3t2Execute.csproj",
+      "projectName": "m3t2Execute",
+      "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D1\\m3\\m3t2\\m3t2Execute\\m3t2Execute.csproj",
+      "packagesPath": "C:\\Users\\Perizat_Karina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D1\\m3\\m3t2\\m3t2Execute\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Perizat_Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D1\\m3\\m3t2\\m3t2\\m3t2.csproj": {
+              "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D1\\m3\\m3t2\\m3t2\\m3t2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

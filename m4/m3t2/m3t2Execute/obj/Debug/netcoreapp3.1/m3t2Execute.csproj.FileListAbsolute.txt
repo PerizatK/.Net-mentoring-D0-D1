@@ -1,0 +1,16 @@
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.AssemblyInfoInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.AssemblyInfo.cs
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.deps.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.runtimeconfig.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.runtimeconfig.dev.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2Execute.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\bin\Debug\netcoreapp3.1\m3t2.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.csproj.CopyComplete
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t2\m3t2Execute\obj\Debug\netcoreapp3.1\m3t2Execute.genruntimeconfig.cache

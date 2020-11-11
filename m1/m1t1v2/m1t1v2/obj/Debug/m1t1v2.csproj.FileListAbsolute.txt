@@ -1,0 +1,23 @@
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.exe.config
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.exe
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.pdb
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.Form1.resources
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.Properties.Resources.resources
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csproj.GenerateResource.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.exe
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.exe.config
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.exe
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\bin\Debug\m1t1v2.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\bin\Debug\MyLIb.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\bin\Debug\MyLIb.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.Form1.resources
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.Properties.Resources.resources
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csproj.GenerateResource.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.csproj.CopyComplete
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.exe
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v2\m1t1v2\obj\Debug\m1t1v2.pdb

@@ -1,0 +1,13 @@
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.deps.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.runtimeconfig.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.runtimeconfig.dev.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\bin\Debug\netcoreapp3.1\CheckDebugging.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.AssemblyInfoInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.AssemblyInfo.cs
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net Mentoring D0-D1\m2\CheckDebugging\CheckDebugging\obj\Debug\netcoreapp3.1\CheckDebugging.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "m1t1v1": {
+      "commandName": "Project",
+      "commandLineArgs": "Perizat1 Perizat2 Perizat3 Perizat4"
+    }
+  }
+}

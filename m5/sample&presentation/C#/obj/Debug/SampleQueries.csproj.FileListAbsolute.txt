@@ -1,0 +1,9 @@
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\bin\Debug\SampleQueries.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\bin\Debug\SampleQueries.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleQueries.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m4\sample&presentation\C#\obj\Debug\SampleQueries.pdb

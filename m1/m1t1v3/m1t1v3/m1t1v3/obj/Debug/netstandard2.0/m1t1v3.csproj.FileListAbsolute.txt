@@ -1,0 +1,31 @@
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.deps.json
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\ref\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.pdb
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\ref\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net mentoring D1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.deps.json
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\ref\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\m1t1v3.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\MyLIb.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\bin\Debug\netstandard2.0\MyLIb.pdb
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.csprojAssemblyReference.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.AssemblyInfoInputs.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.AssemblyInfo.cs
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.csproj.CoreCompileInputs.cache
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.csproj.CopyComplete
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\ref\m1t1v3.dll
+C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\m1t1v3\m1t1v3\m1t1v3\obj\Debug\netstandard2.0\m1t1v3.pdb

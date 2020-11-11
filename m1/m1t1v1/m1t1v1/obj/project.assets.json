@@ -1,0 +1,93 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyLIb/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/MyLIb.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyLIb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyLIb/1.0.0": {
+      "type": "project",
+      "path": "../../MyLIb/MyLIb/MyLIb.csproj",
+      "msbuildProject": "../../MyLIb/MyLIb/MyLIb.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "MyLIb >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\karin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v1\\m1t1v1\\m1t1v1.csproj",
+      "projectName": "m1t1v1",
+      "projectPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v1\\m1t1v1\\m1t1v1.csproj",
+      "packagesPath": "C:\\Users\\karin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v1\\m1t1v1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\karin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\MyLIb\\MyLIb\\MyLIb.csproj": {
+              "projectPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\MyLIb\\MyLIb\\MyLIb.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

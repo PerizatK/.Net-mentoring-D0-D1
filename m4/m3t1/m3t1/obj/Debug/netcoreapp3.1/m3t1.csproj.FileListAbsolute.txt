@@ -1,0 +1,13 @@
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.exe
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.deps.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.runtimeconfig.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.runtimeconfig.dev.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\bin\Debug\netcoreapp3.1\m3t1.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.AssemblyInfoInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.AssemblyInfo.cs
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D1\m3\m3t1\m3t1\obj\Debug\netcoreapp3.1\m3t1.genruntimeconfig.cache
