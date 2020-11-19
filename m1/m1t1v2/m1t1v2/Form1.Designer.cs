@@ -29,33 +29,47 @@
         private void InitializeComponent()
         {
             this.tName = new System.Windows.Forms.TextBox();
-            this.lName = new System.Windows.Forms.Label();
+            this.lNamePerson = new System.Windows.Forms.Label();
+            this.lNamePersonUtils = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // tName
             // 
-            this.tName.Location = new System.Drawing.Point(45, 28);
+            this.tName.Location = new System.Drawing.Point(60, 34);
+            this.tName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tName.Name = "tName";
-            this.tName.Size = new System.Drawing.Size(134, 20);
+            this.tName.Size = new System.Drawing.Size(177, 22);
             this.tName.TabIndex = 0;
             this.tName.Text = "Enter your name here";
             this.tName.KeyUp += new System.Windows.Forms.KeyEventHandler(this.tName_KeyUp);
             // 
-            // lName
+            // lNamePerson
             // 
-            this.lName.AutoSize = true;
-            this.lName.Location = new System.Drawing.Point(42, 80);
-            this.lName.Name = "lName";
-            this.lName.Size = new System.Drawing.Size(0, 13);
-            this.lName.TabIndex = 1;
+            this.lNamePerson.AutoSize = true;
+            this.lNamePerson.Location = new System.Drawing.Point(56, 98);
+            this.lNamePerson.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lNamePerson.Name = "lNamePerson";
+            this.lNamePerson.Size = new System.Drawing.Size(0, 17);
+            this.lNamePerson.TabIndex = 1;
+            // 
+            // lNamePersonUtils
+            // 
+            this.lNamePersonUtils.AutoSize = true;
+            this.lNamePersonUtils.Location = new System.Drawing.Point(57, 125);
+            this.lNamePersonUtils.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lNamePersonUtils.Name = "lNamePersonUtils";
+            this.lNamePersonUtils.Size = new System.Drawing.Size(0, 17);
+            this.lNamePersonUtils.TabIndex = 2;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(291, 165);
-            this.Controls.Add(this.lName);
+            this.ClientSize = new System.Drawing.Size(388, 203);
+            this.Controls.Add(this.lNamePersonUtils);
+            this.Controls.Add(this.lNamePerson);
             this.Controls.Add(this.tName);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -66,7 +80,8 @@
         #endregion
 
         private System.Windows.Forms.TextBox tName;
-        private System.Windows.Forms.Label lName;
+        private System.Windows.Forms.Label lNamePerson;
+        private System.Windows.Forms.Label lNamePersonUtils;
     }
 }
 

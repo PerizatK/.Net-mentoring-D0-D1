@@ -3,6 +3,7 @@ public class MonoPackageManager_Resources {
 	public static String[] Assemblies = new String[]{
 		/* We need to ensure that "m1t1v3.Android.dll" comes first in this list. */
 		"m1t1v3.Android.dll",
+		"MyLIb.dll",
 		"FormsViewGroup.dll",
 		"m1t1v3.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
@@ -47,7 +48,6 @@ public class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.Android.dll",
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
-		"MyLIb.dll",
 	};
 	public static String[] Dependencies = new String[]{
 	};

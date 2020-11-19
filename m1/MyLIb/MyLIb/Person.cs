@@ -4,12 +4,18 @@ namespace MyLIb
 {
     public class Person
     {
-        public string GetValue(string name)
+        public readonly string _name;
+        public DateTime date;
+
+        public Person(string name)
         {
-            DateTime now = DateTime.Now;
-            return $"{now:T} Hello, {name}";
+            _name = name;
+            date = DateTime.Now;
         }
 
-
+        public string GetGreetingForName()
+        {
+            return $"{date:T} Hello, {_name}";
+        }
     }
 }

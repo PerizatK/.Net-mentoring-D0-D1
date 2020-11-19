@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HNZYv7Hs5GncqiTPt6S6grCno13KamAC2rOVU3R1m/W+Wz7KxpW3u7tRd1QrCbF5cSGzLPEwzSBSgedKnz6lLA==",
+  "dgSpecHash": "fd16Qw3NVLcdPCJpURhVgLrgOqSvhaVw74kAtGoAUdmM/5uAHFntjazFEnvSoWAbyl7SFrKwoNBsI86t/Mf0gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\MyLIb\\MyLIb\\MyLIb.csproj",
+  "projectFilePath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\MyLIb\\MyLIb\\MyLIb.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\karin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\karin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

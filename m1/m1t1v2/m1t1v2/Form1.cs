@@ -23,8 +23,10 @@ namespace m1t1v2
             if (e.KeyCode == Keys.Enter)
             {
                 //lName.Text = "Hello," + tName.Text;
-                Person person = new Person();
-                lName.Text = person.GetValue(tName.Text);
+                Person person = new Person(tName.Text);
+                lNamePerson.Text = "Person: " + person.GetGreetingForName();
+
+                lNamePersonUtils.Text = "PersonUtils: " + PersonUtils.GetGreetingForName(tName.Text);
             }
         }
     }

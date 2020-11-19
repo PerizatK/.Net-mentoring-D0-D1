@@ -16,3 +16,12 @@ C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\MyLIb\MyLIb\obj\Debug\netst
 C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.csproj.CoreCompileInputs.cache
 C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.dll
 C:\Users\karin\Documents\GitHub\.Net-mentoring-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\bin\Debug\netstandard2.0\MyLIb.deps.json
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\bin\Debug\netstandard2.0\MyLIb.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\bin\Debug\netstandard2.0\MyLIb.pdb
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.csprojAssemblyReference.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.AssemblyInfoInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.AssemblyInfo.cs
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.csproj.CoreCompileInputs.cache
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.dll
+C:\Users\Perizat_Karina\Documents\GitHub\.Net-mentoring-D0-D1\m1\MyLIb\MyLIb\obj\Debug\netstandard2.0\MyLIb.pdb

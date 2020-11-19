@@ -33,8 +33,8 @@ namespace m1t1v3
         private void nameEntry_Completed(object sender, EventArgs e)
         {
             //lName2.Text = "Hello, " + nameEntry.Text;
-            Person person = new Person();
-            lName2.Text = person.GetValue(nameEntry.Text);
+            Person person = new Person(nameEntry.Text);
+            lName2.Text = person.GetGreetingForName();
 
         }
 

@@ -1094,24 +1094,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\karin\\.nuget\\packages\\": {},
+    "C:\\Users\\Perizat_Karina\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\m1t1v3.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\m1t1v3.iOS.csproj",
       "projectName": "m1t1v3.iOS",
-      "projectPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\m1t1v3.iOS.csproj",
-      "packagesPath": "C:\\Users\\karin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\obj\\",
+      "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\m1t1v3.iOS.csproj",
+      "packagesPath": "C:\\Users\\Perizat_Karina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\karin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Perizat_Karina\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -1125,8 +1125,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3\\m1t1v3.csproj": {
-              "projectPath": "C:\\Users\\karin\\Documents\\GitHub\\.Net-mentoring-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3\\m1t1v3.csproj"
+            "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3\\m1t1v3.csproj": {
+              "projectPath": "C:\\Users\\Perizat_Karina\\Documents\\GitHub\\.Net-mentoring-D0-D1\\m1\\m1t1v3\\m1t1v3\\m1t1v3\\m1t1v3.csproj"
             }
           }
         }
